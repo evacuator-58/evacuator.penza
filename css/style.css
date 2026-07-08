@@ -115,24 +115,24 @@ body{
     }
 .features {
             display: flex;
-            gap: 10px;
+            gap: 1em;
             justify-content: center;
             width: 100%;
         }
 
         .feature-box {
             background: rgba(255, 255, 255, 0.1);
-            padding: 0px 20px 0px 20px;
-            border-radius: 5px;
+            padding: 0em 2em 0em 2em;
+            border-radius: 1em;
             width: 30%;
-            backdrop-filter: blur(5px);
+            backdrop-filter: blur(1em);
         }
 
         .feature-box h6 {
             color: #fff;
             font-size: 2em;
-            margin-bottom: 0px;
-            margin-top: 20px;
+            margin-bottom: 0em;
+            margin-top: 1.5em;
         }
 
 .design { /*������� ����� ������� � ��������� ���������*/
