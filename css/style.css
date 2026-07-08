@@ -117,7 +117,7 @@ body{
             display: flex;
             gap: 1em;
             justify-content: center;
-            width: 100%;
+            width: auto;
         }
 
         .feature-box {
