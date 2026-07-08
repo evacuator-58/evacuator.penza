@@ -111,9 +111,8 @@ text-align: center;
     background-color: #CD5C5C;
 }
 body{
-   
-    
-}
+   background-color: aliceblue;
+    }
 .features {
             display: flex;
             gap: 10px;
