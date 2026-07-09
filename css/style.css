@@ -115,17 +115,10 @@ body{
     }
 .features {
             display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-        
-        
+            gap: 1em;
+            justify-content: center;
+            width: 100%;
         }
-@media (max-width: 500px) {
-  .features {
-    flex-direction: column;
-    gap: 1em; /* Расстояние между элементами */
-  }
-}
         .feature-box {
             background: rgba(255, 255, 255, 0.1);
             padding: 0em 2em 0em 2em;
